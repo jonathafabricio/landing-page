@@ -1,0 +1,53 @@
+@media screen and (max-width: 768px) {
+    html, body {
+        width: 100%;        
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .banner-content p {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    button {
+        width: 226px;
+    }
+
+    .separator {
+        margin: 10px 0;
+    }
+
+    #course-content h2 {
+        font-size: 24px;
+        letter-spacing: 4.08px;
+    }
+
+    #course-content p {
+        font-size: 15px; 
+        padding: 0 10px;
+    }
+
+    .module-list {
+        gap: 10px;
+    }
+
+    .module {
+        width: 85%; 
+        padding: 16px;
+        text-align: center;
+    }
+
+    .separator {
+        margin: 0 0 -1px;
+    }
+}
