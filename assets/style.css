@@ -47,7 +47,7 @@ header {
     z-index: -1;
 }
 .banner-content {
-    background-image: url('assets/images/banner.png');
+    background-image: url('../assets/images/banner.png');
     background-size: cover;
     background-position: center; 
     width: 100%;
